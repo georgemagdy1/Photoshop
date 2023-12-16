@@ -1,0 +1,86 @@
+E:\1\1\obj\x86\Debug\_1.Form1.resources
+E:\1\1\obj\x86\Debug\_1.Properties.Resources.resources
+E:\1\1\obj\x86\Debug\1.csproj.GenerateResource.Cache
+E:\1\1\bin\Debug\1.exe
+E:\1\1\bin\Debug\1.pdb
+E:\1\1\bin\Debug\openCV.dll
+E:\1\1\obj\x86\Debug\1.exe
+E:\1\1\obj\x86\Debug\1.pdb
+D:\My Work\forth year\1st semester\Img Processing lab\1\1\obj\x86\Debug\1.exe
+D:\My Work\forth year\1st semester\Img Processing lab\1\1\obj\x86\Debug\1.pdb
+D:\My Work\forth year\1st semester\Img Processing lab\1\1\bin\Debug\1.exe
+D:\My Work\forth year\1st semester\Img Processing lab\1\1\bin\Debug\1.pdb
+D:\My Work\forth year\1st semester\Img Processing lab\1\1\obj\x86\Debug\1.csprojResolveAssemblyReference.cache
+D:\My Work\forth year\1st semester\Img Processing lab\1\1\obj\x86\Debug\_1.Form1.resources
+D:\My Work\forth year\1st semester\Img Processing lab\1\1\obj\x86\Debug\_1.Properties.Resources.resources
+D:\My Work\forth year\1st semester\Img Processing lab\1\1\obj\x86\Debug\1.csproj.GenerateResource.Cache
+C:\Users\ccl\Desktop\New folder\New folder\New folder\1\1\obj\x86\Debug\1.exe
+C:\Users\ccl\Desktop\New folder\New folder\New folder\1\1\obj\x86\Debug\1.pdb
+C:\Users\ccl\Desktop\New folder\New folder\New folder\1-open image\1\obj\x86\Debug\1.exe
+C:\Users\ccl\Desktop\New folder\New folder\New folder\1-open image\1\obj\x86\Debug\1.pdb
+C:\Users\ccl\Desktop\imageeeeeee\1-open image\1\obj\x86\Debug\1.exe
+C:\Users\ccl\Desktop\imageeeeeee\1-open image\1\obj\x86\Debug\1.pdb
+C:\Users\ccl\Desktop\imageeeeeee\1-open image\1\bin\Debug\1.exe
+C:\Users\ccl\Desktop\imageeeeeee\1-open image\1\bin\Debug\1.pdb
+C:\Users\ccl\Desktop\imageeeeeee\1-open image\1\obj\x86\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\ccl\Desktop\imageeeeeee\1-open image\1\obj\x86\Debug\_1.Form1.resources
+C:\Users\ccl\Desktop\imageeeeeee\1-open image\1\obj\x86\Debug\_1.Properties.Resources.resources
+C:\Users\ccl\Desktop\imageeeeeee\1-open image\1\obj\x86\Debug\1.csproj.GenerateResource.Cache
+G:\New folder\imageeeeeee\1-open image\1\obj\x86\Debug\1.exe
+G:\New folder\imageeeeeee\1-open image\1\obj\x86\Debug\1.pdb
+F:\New folder\imageeeeeee\1-open image\1\obj\x86\Debug\1.exe
+F:\New folder\imageeeeeee\1-open image\1\obj\x86\Debug\1.pdb
+F:\imageeeeeee\1-open image\1\obj\x86\Debug\1.exe
+F:\imageeeeeee\1-open image\1\obj\x86\Debug\1.pdb
+F:\imageeeeeee\1-open image\1\bin\Debug\1.exe
+F:\imageeeeeee\1-open image\1\bin\Debug\1.pdb
+F:\imageeeeeee\1-open image\1\obj\x86\Debug\1.csprojResolveAssemblyReference.cache
+F:\imageeeeeee\1-open image\1\obj\x86\Debug\_1.Form1.resources
+F:\imageeeeeee\1-open image\1\obj\x86\Debug\_1.Properties.Resources.resources
+F:\imageeeeeee\1-open image\1\obj\x86\Debug\1.csproj.GenerateResource.Cache
+D:\Material\1-open image\1\obj\x86\Debug\1.exe
+D:\Material\1-open image\1\obj\x86\Debug\1.pdb
+D:\Material\1-open image\1\bin\Debug\1.exe
+D:\Material\1-open image\1\bin\Debug\1.pdb
+D:\Material\1-open image\1\obj\x86\Debug\1.csprojResolveAssemblyReference.cache
+D:\Material\1-open image\1\obj\x86\Debug\_1.Form1.resources
+D:\Material\1-open image\1\obj\x86\Debug\_1.Properties.Resources.resources
+D:\Material\1-open image\1\obj\x86\Debug\1.csproj.GenerateResource.Cache
+C:\Users\mis\Desktop\Material\1-open image\1\obj\x86\Debug\1.exe
+C:\Users\mis\Desktop\Material\1-open image\1\obj\x86\Debug\1.pdb
+C:\Users\mis\Desktop\Material\1-open image\1\bin\Debug\1.exe
+C:\Users\mis\Desktop\Material\1-open image\1\bin\Debug\1.pdb
+C:\Users\mis\Desktop\Material\1-open image\1\obj\x86\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\mis\Desktop\Material\1-open image\1\obj\x86\Debug\_1.Form1.resources
+C:\Users\mis\Desktop\Material\1-open image\1\obj\x86\Debug\_1.Properties.Resources.resources
+C:\Users\mis\Desktop\Material\1-open image\1\obj\x86\Debug\1.csproj.GenerateResource.Cache
+D:\New folder\1-open image\1\bin\Debug\1.exe
+D:\New folder\1-open image\1\bin\Debug\1.pdb
+D:\New folder\1-open image\1\obj\x86\Debug\1.csproj.AssemblyReference.cache
+D:\New folder\1-open image\1\obj\x86\Debug\_1.Form1.resources
+D:\New folder\1-open image\1\obj\x86\Debug\_1.Properties.Resources.resources
+D:\New folder\1-open image\1\obj\x86\Debug\1.csproj.GenerateResource.cache
+D:\New folder\1-open image\1\obj\x86\Debug\1.csproj.CoreCompileInputs.cache
+D:\New folder\1-open image\1\obj\x86\Debug\1.csproj.CopyComplete
+D:\New folder\1-open image\1\obj\x86\Debug\1.exe
+D:\New folder\1-open image\1\obj\x86\Debug\1.pdb
+D:\New folder\Image processing final project\1\bin\Debug\1.exe
+D:\New folder\Image processing final project\1\bin\Debug\1.pdb
+D:\New folder\Image processing final project\1\obj\x86\Debug\1.csproj.AssemblyReference.cache
+D:\New folder\Image processing final project\1\obj\x86\Debug\_1.Form1.resources
+D:\New folder\Image processing final project\1\obj\x86\Debug\_1.Properties.Resources.resources
+D:\New folder\Image processing final project\1\obj\x86\Debug\1.csproj.GenerateResource.cache
+D:\New folder\Image processing final project\1\obj\x86\Debug\1.csproj.CoreCompileInputs.cache
+D:\New folder\Image processing final project\1\obj\x86\Debug\1.csproj.CopyComplete
+D:\New folder\Image processing final project\1\obj\x86\Debug\1.exe
+D:\New folder\Image processing final project\1\obj\x86\Debug\1.pdb
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\bin\Debug\1.exe
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\bin\Debug\1.pdb
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\obj\x86\Debug\1.csprojAssemblyReference.cache
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\obj\x86\Debug\_1.Form1.resources
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\obj\x86\Debug\_1.Properties.Resources.resources
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\obj\x86\Debug\1.csproj.GenerateResource.cache
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\obj\x86\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\obj\x86\Debug\1.csproj.CopyComplete
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\obj\x86\Debug\1.exe
+C:\Users\george\Downloads\Image processing final project\Image processing final project\1\obj\x86\Debug\1.pdb
